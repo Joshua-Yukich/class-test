@@ -1,1 +1,4 @@
 TrPlay scratch notes file 
+
+
+Test document for SPHU4160 Github session
